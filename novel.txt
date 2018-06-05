@@ -43,7 +43,14 @@ VOLUME I
 CHAPTER I
 
 
+<<<<<<< HEAD
 Begin
+=======
+Emma Woodhouse, handsome, clever, and rich, with a comfortable home
+and happy disposition, seemed to unite some of the best blessings of
+existence; and had lived nearly seventeen years in the world with very
+little to distress or vex her.
+>>>>>>> 100fa3f4007975b0c938bedcd800ae904bac9234
 
 She was the youngest of the two daughters of a most affectionate,
 indulgent father; and had, in consequence of her sister's marriage, been
